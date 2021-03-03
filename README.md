@@ -1,22 +1,22 @@
-# @jupi/tiny
+# @jupit3r13/tinynpm
 
 Removes all spaces from a string.
 
 ## Install
 
 ```
-$ npm install @jupi/tiny
+$ npm i @jupit3r13/tinynpm
 ```
 
 ## Usage
 
 ```js
-const spacekiller = require("@jupi/tiny");
+const tiny = require("@jupit3r13/tinynpm");
 
-spacekiller("So much space!");
+tiny("So much space!");
 //=> "Somuchspace!"
 
-spacekiller(1337);
+tiny(1337);
 //=> Uncaught TypeError: spacekiller wants a string!
 //    at spacekiller (<anonymous>:2:41)
 //    at <anonymous>:1:1

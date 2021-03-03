@@ -3,12 +3,9 @@
   "version": "1.0.1",
   "description": "Removes all spaces from a string.",
   "main": "index.js",
-  "author": "",
+  "author": "Milad",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jupit3r13/jupi-tiney"
-  },
+  "repository": "https://github.com/jupit3r13/jupi-tiney",
   "keywords": [
     "tiny",
     "npm",
