@@ -1,12 +1,18 @@
 {
-  "name": "@jupi/tiny",
+  "name": "@jupit3r13/tinynpm",
   "version": "1.0.0",
-  "description": "",
+  "description": "Removes all spaces from a string.",
   "main": "index.js",
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/jupit3r13/jupi-tiney"
-  }
+  },
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "bamblehorse"
+  ]
 }
